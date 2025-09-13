@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-13T19:55:46 IST" name="Default suite" finished-at="2025-09-13T19:56:47 IST" duration-ms="61071">
+    <groups>
+    </groups>
+    <test started-at="2025-09-13T19:55:46 IST" name="Default test" finished-at="2025-09-13T19:56:47 IST" duration-ms="61071">
+      <class name="selenium_mock.FacebookLogin">
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:55:46 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:03 IST" duration-ms="17214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aariz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aariz@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:03 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:10 IST" duration-ms="7219" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raghav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raghav@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:10 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:18 IST" duration-ms="7164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Deepu@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:18 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:25 IST" duration-ms="7346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aman@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:25 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:32 IST" duration-ms="7460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pankaj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pankaj@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:32 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:40 IST" duration-ms="7315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anamika]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Anamika@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+        <test-method signature="loginFacebook(java.lang.String,java.lang.String)[pri:0, instance:selenium_mock.FacebookLogin@117159c0]" started-at="2025-09-13T19:56:40 IST" name="loginFacebook" data-provider="getData" finished-at="2025-09-13T19:56:47 IST" duration-ms="7272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amit@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFacebook -->
+      </class> <!-- selenium_mock.FacebookLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
